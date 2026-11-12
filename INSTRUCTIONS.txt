@@ -1,0 +1,17 @@
+Angela Anderson — Résumé Page for GitHub Pages
+
+Upload resume.html and Angela-Anderson-Resume-2026.pdf to the ROOT of your csv repository (alongside index.html). Do not upload INSTRUCTIONS.txt unless you want to.
+
+The page then lives at:
+https://angelaandersonmedia-portfolio.github.io/csv/resume.html
+
+The resume PDF is here:
+https://angelaandersonmedia-portfolio.github.io/csv/Angela-Anderson-Resume-2026.pdf
+
+To add RÉSUMÉ to the top menu of your EXISTING pages, edit index.html, experience.html, work.html, and writing.html individually:
+Within <div class="nav-links">, just before its closing </div>, insert:
+<a href="resume.html">Résumé</a>
+
+Commit the changes to each edited page. Do NOT replace your existing index.html with an older copy; it has your latest portrait and fixes.
+
+The PDF is publicly downloadable after publication. Verify that you wish to share the personal contact details on it.
